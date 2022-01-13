@@ -1,4 +1,4 @@
 # cosillas-ia
 Pruebas con Jupyter
 
-https://mybinder.org/v2/gh/Luisxxx0/cosillas-ia/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Luisxxx0/cosillas-ia/HEAD)
